@@ -1,0 +1,42 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}Background}{1}{}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{1}{}%
+\contentsline {section}{\numberline {1.3}Objectives}{2}{}%
+\contentsline {section}{\numberline {1.4}Application Scope}{2}{}%
+\contentsline {section}{\numberline {1.5}Project Feature}{2}{}%
+\contentsline {section}{\numberline {1.6}System Requirements}{3}{}%
+\contentsline {subsection}{\numberline {1.6.1}Development Requirements}{3}{}%
+\contentsline {subsubsection}{Hardware Requirements}{3}{}%
+\contentsline {subsubsection}{Software Requirements}{3}{}%
+\contentsline {subsection}{\numberline {1.6.2}Deployment Requirements}{3}{}%
+\contentsline {section}{\numberline {1.7}Feasibility Study}{4}{}%
+\contentsline {subsection}{\numberline {1.7.1}Economic Feasibility}{4}{}%
+\contentsline {subsection}{\numberline {1.7.2}Technical Feasibility}{4}{}%
+\contentsline {subsection}{\numberline {1.7.3}Operational Feasibility}{4}{}%
+\contentsline {subsection}{\numberline {1.7.4}Schedule Feasibility}{4}{}%
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{5}{}%
+\contentsline {section}{\numberline {2.1}Related Works}{5}{}%
+\contentsline {subsection}{\numberline {2.1.1}BallotReady}{5}{}%
+\contentsline {subsection}{\numberline {2.1.2}Voatz}{5}{}%
+\contentsline {subsection}{\numberline {2.1.3}FollowMyVote}{6}{}%
+\contentsline {section}{\numberline {2.2}Related Research}{6}{}%
+\contentsline {subsection}{\numberline {2.2.1}Blockchain}{6}{}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{8}{}%
+\contentsline {section}{\numberline {3.1}Working Mechanism}{8}{}%
+\contentsline {subsection}{\numberline {3.1.1}Block Diagram}{8}{}%
+\contentsline {paragraph}{Login}{8}{}%
+\contentsline {paragraph}{OTP Verification}{8}{}%
+\contentsline {paragraph}{Choose Candidate}{8}{}%
+\contentsline {paragraph}{Tally at Database}{8}{}%
+\contentsline {paragraph}{Release Result}{9}{}%
+\contentsline {paragraph}{Nonce}{9}{}%
+\contentsline {paragraph}{Voting Data}{9}{}%
+\contentsline {paragraph}{Previous Hash}{9}{}%
+\contentsline {paragraph}{Current Hash}{9}{}%
+\contentsline {section}{\numberline {3.2}System Models}{9}{}%
+\contentsline {subsection}{\numberline {3.2.1}Use Case Diagram}{9}{}%
+\contentsline {subsection}{\numberline {3.2.2}Data Flow Diagrams (DFD)}{9}{}%
+\contentsline {paragraph}{0-level DFD}{10}{}%
+\contentsline {paragraph}{1-level DFD}{10}{}%
+\contentsline {subsection}{\numberline {3.2.3}Activity diagram}{10}{}%
+\contentsline {subsection}{\numberline {3.2.4}Incremental Model}{10}{}%
