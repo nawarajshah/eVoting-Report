@@ -26,36 +26,36 @@
 \contentsline {subsection}{\numberline {3.1.1}Block Diagram}{8}{}%
 \contentsline {paragraph}{Login}{8}{}%
 \contentsline {paragraph}{OTP Verification}{8}{}%
-\contentsline {paragraph}{Choose Candidate}{8}{}%
-\contentsline {paragraph}{Tally at Database}{8}{}%
+\contentsline {paragraph}{Choose Candidate}{9}{}%
+\contentsline {paragraph}{Tally at Database}{9}{}%
 \contentsline {paragraph}{Release Result}{9}{}%
 \contentsline {paragraph}{Nonce}{9}{}%
 \contentsline {paragraph}{Voting Data}{9}{}%
 \contentsline {paragraph}{Previous Hash}{9}{}%
 \contentsline {paragraph}{Current Hash}{9}{}%
-\contentsline {section}{\numberline {3.2}System Models}{9}{}%
-\contentsline {subsection}{\numberline {3.2.1}Use Case Diagram}{9}{}%
-\contentsline {subsection}{\numberline {3.2.2}Data Flow Diagrams (DFD)}{9}{}%
+\contentsline {section}{\numberline {3.2}System Models}{10}{}%
+\contentsline {subsection}{\numberline {3.2.1}Use Case Diagram}{10}{}%
+\contentsline {subsection}{\numberline {3.2.2}Data Flow Diagrams (DFD)}{10}{}%
 \contentsline {paragraph}{0-level DFD}{10}{}%
 \contentsline {paragraph}{1-level DFD}{10}{}%
-\contentsline {subsection}{\numberline {3.2.3}Activity diagram}{10}{}%
-\contentsline {subsection}{\numberline {3.2.4}Incremental Model}{10}{}%
-\contentsline {chapter}{\numberline {4}EPILOGUE}{11}{}%
-\contentsline {section}{\numberline {4.1}Working Mechanism}{11}{}%
-\contentsline {subsection}{\numberline {4.1.1}Block Diagram}{11}{}%
-\contentsline {subsection}{\numberline {4.1.2}Login}{11}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.1}OTP verification}{11}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.2}Choose Candidate}{11}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.3}Tally at Database}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.4}Release Result}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.5}Block Diagram}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.6}Nonce}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.7}Voting Data}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.8}Previous Hash}{12}{}%
-\contentsline {subsubsection}{\numberline {4.1.2.9}Current Hash}{12}{}%
-\contentsline {section}{\numberline {4.2}System Models}{12}{}%
-\contentsline {subsection}{\numberline {4.2.1}Use Case Diagram}{12}{}%
-\contentsline {subsection}{\numberline {4.2.2}Data Flow Diagram}{13}{}%
-\contentsline {subsubsection}{\numberline {4.2.2.1}0-level DFD}{13}{}%
-\contentsline {subsubsection}{\numberline {4.2.2.2}1-level DFD}{13}{}%
-\contentsline {subsection}{\numberline {4.2.3}Activity Diagram}{13}{}%
+\contentsline {subsection}{\numberline {3.2.3}Activity diagram}{11}{}%
+\contentsline {subsection}{\numberline {3.2.4}Incremental Model}{11}{}%
+\contentsline {chapter}{\numberline {4}EPILOGUE}{13}{}%
+\contentsline {section}{\numberline {4.1}Working Mechanism}{13}{}%
+\contentsline {subsection}{\numberline {4.1.1}Block Diagram}{13}{}%
+\contentsline {subsection}{\numberline {4.1.2}Login}{13}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}OTP verification}{13}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}Choose Candidate}{13}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.3}Tally at Database}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.4}Release Result}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.5}Block Diagram}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.6}Nonce}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.7}Voting Data}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.8}Previous Hash}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.9}Current Hash}{14}{}%
+\contentsline {section}{\numberline {4.2}System Models}{14}{}%
+\contentsline {subsection}{\numberline {4.2.1}Use Case Diagram}{14}{}%
+\contentsline {subsection}{\numberline {4.2.2}Data Flow Diagram}{15}{}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}0-level DFD}{15}{}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}1-level DFD}{15}{}%
+\contentsline {subsection}{\numberline {4.2.3}Activity Diagram}{15}{}%

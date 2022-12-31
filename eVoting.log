@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.31)  31 DEC 2022 11:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.31)  31 DEC 2022 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -24,6 +24,30 @@ File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
 (/usr/local/texlive/2021basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
 ef
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
@@ -32,24 +56,56 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 ) (./eVoting.aux)
 \openout1 = `eVoting.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count189
+\scratchdimen=\dimen141
+\scratchbox=\box48
+\nofMPsegments=\count190
+\nofMParguments=\count191
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen142
+\MPnumerator=\count193
+\makeMPintoPDFobject=\count194
+\everyMPtoPDFconversion=\toks17
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<ClzLogo.png, id=1, 259.97125pt x 261.97874pt>
+File: ClzLogo.png Graphic file (type png)
+<use ClzLogo.png>
+Package pdftex.def Info: ClzLogo.png  used on input line 22.
+(pdftex.def)             Requested size: 71.12935pt x 68.28474pt.
  [1
 
+{/usr/local/texlive/2021basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
+ClzLogo.png>] [1
 
-{/usr/local/texlive/2021basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+] [2
 
 ] (./eVoting.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -74,36 +130,67 @@ Chapter 2.
 
 ] [6] [7]
 Chapter 3.
+<BlockDig.png, id=45, 513.92pt x 293.095pt>
+File: BlockDig.png Graphic file (type png)
+<use BlockDig.png>
+Package pdftex.def Info: BlockDig.png  used on input line 201.
+(pdftex.def)             Requested size: 256.95937pt x 146.54713pt.
 [8
 
-] [9] [10]
-Chapter 4.
-[11
+ <./BlockDig.png>] [9]
+<DFD-0L.png, id=54, 513.92pt x 244.915pt>
+File: DFD-0L.png Graphic file (type png)
+<use DFD-0L.png>
+Package pdftex.def Info: DFD-0L.png  used on input line 246.
+(pdftex.def)             Requested size: 205.56435pt x 97.96425pt.
+<DFD-1L.png, id=55, 513.92pt x 283.0575pt>
+File: DFD-1L.png Graphic file (type png)
+<use DFD-1L.png>
+Package pdftex.def Info: DFD-1L.png  used on input line 256.
+(pdftex.def)             Requested size: 256.95937pt x 141.5284pt.
+<ActivityDig-1.png, id=56, 290.08376pt x 513.92pt>
+File: ActivityDig-1.png Graphic file (type png)
+<use ActivityDig-1.png>
+Package pdftex.def Info: ActivityDig-1.png  used on input line 278.
+(pdftex.def)             Requested size: 145.04152pt x 256.95937pt.
+<ActivityDig-2.png, id=57, 238.8925pt x 513.92pt>
+File: ActivityDig-2.png Graphic file (type png)
+<use ActivityDig-2.png>
+Package pdftex.def Info: ActivityDig-2.png  used on input line 281.
+(pdftex.def)             Requested size: 119.44595pt x 256.95937pt.
+ [10 <./DFD-0L.png>]
 
-] [12]
-Overfull \hbox (31.25537pt too wide) in paragraph at lines 224--225
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./DFD-1L.png>] [12 <./ActivityDig-1.png> <./ActivityDig-2.png>]
+Chapter 4.
+[13
+
+] [14]
+Overfull \hbox (31.25537pt too wide) in paragraph at lines 329--330
 \OT1/cmr/m/n/12 In 1-level DFD, the con-text di-a-gram is de-com-posed into mul
 -ti-ple bub-bles/processes.
  []
 
-[13] (./eVoting.aux) ) 
+[15] (./eVoting.aux) ) 
 Here is how much of TeX's memory you used:
- 436 strings out of 480445
- 7465 string characters out of 5892390
- 296574 words of memory out of 5000000
- 17779 multiletter control sequences out of 15000+600000
- 408974 words of font info for 45 fonts, out of 8000000 for 9000
+ 1261 strings out of 480445
+ 19106 string characters out of 5892390
+ 308775 words of memory out of 5000000
+ 18568 multiletter control sequences out of 15000+600000
+ 409282 words of font info for 46 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 44i,5n,50p,1037b,134s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,6n,74p,1037b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/user/Library/texlive/2021basic/texmf-var/fonts/p
 k/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2021basic/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021basic/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021basic/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on eVoting.pdf (17 pages, 76826 bytes).
+nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021basic/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021basic/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021basic/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on eVoting.pdf (20 pages, 239011 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

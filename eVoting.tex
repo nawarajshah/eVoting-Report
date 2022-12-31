@@ -1,8 +1,68 @@
 \documentclass[a4paper,12pt]{report}
 \setcounter{tocdepth}{3}
 \setcounter{secnumdepth}{3}
+\usepackage{graphicx}   %Package helps to insert images
+
+
 \begin{document}
 \pagenumbering{roman}
+%\usepackage[T1]{fontenc} 
+
+%#################################
+\begin{titlepage}
+   \begin{center}
+       \vspace*{1cm}
+
+       \textbf{\large {\bf KANTIPUR ENGINEERING COLLAGE
+                       DHAPAKHEL,LALITPUR} }
+                       
+                       %%College Logo                      
+        \begin{figure}[htb!]
+              \centering
+              \includegraphics[width=2.5cm, height=2.4cm]{ClzLogo}             
+        \end{figure}
+        
+        \hspace{0.5cm}
+       \textbf{\small{ [ Subject Code: CT654] }}\\
+     {\bf MINOR PROJECT REPORT ON \\ BLOCKCHAIN BASED ONLINE VOTING SYSTEM FOR COLLEGE LEVEL ELECTIONS }
+     
+       \vspace{2.3cm}
+    \textbf{\small
+                Submitted By:\\
+                Bijaya Thebe   [KAN076BCT018] \\
+                Binit Shakya    [KAN076BCT022] \\
+                Dikshyanta Giri [KAN076BCT026] \\
+                Nawaraj Shah [KAN076BCT044] \\
+                }
+
+
+        \vspace{2cm}
+         \textbf{\small{IN PARTIAL FULFILLMENT OF THE REQUIREMENT 
+         FOR THE DEGREE OF  BACHELOR IN COMPUTER ENGINEERING}}
+            
+            
+       \vspace{1.5cm}
+
+%       \setromanfont{Times New Roman}
+
+       \vfill
+            
+       \vspace{0.8cm}
+            
+       \textbf{\small
+           Submitted To:\\
+           Department of Computer and Electronics Engineering
+           }
+           
+           \vfill
+       \vspace{0.5cm}
+         \textbf{\small  Jan 1 ,2023}
+            
+   \end{center}
+\end{titlepage}
+
+%#################################
+
 \chapter*{Abstract}
 In a democracy, elections are very important. However, large sections of society worldwide, people, and the government face various problems, including privacy, fairness, flexibility, and transparency of the voting system. So the government and people with the expertise move toward an electronic voting system. It provides flexibility to the different parties like commissions and people. However, privacy and security cannot be guaranteed in the Electronic Voting System, due to which the fairness and transparency won’t get as expected. This problem translates to college level elections as well. This paper proposed the Blockchain-Based Online Voting System, which can be a sound solution for maintaining privacy and fairness. It provides a decentralized database keeping system, an advanced  existing system that provides security and maintains the privacy of voters and commissions. So the trust of flexibility, as well as transparency, can be comfortably maintained with fewer amounts of effort.
 \\
@@ -135,6 +195,13 @@ Lastly, this paper gives an overview of how block-chain is implemented in an onl
 \section{Working Mechanism}
 \subsection{Block Diagram}
 A block diagram is a drawing illustration of a system whose parts are illustrated by blocks. These blocks are joined by lines to display the relationship between the blocks. Block diagrams are used to visualize the functionality of a system.
+   
+    \begin{figure}[htb!]
+          \centering
+          \includegraphics[scale=0.5]{BlockDig} 
+          \textit{\caption{Block Diagram of Blockchain Online Voting System}}
+          %\label{fig:BlockDiagram}
+    \end{figure}
 
 \paragraph{Login}
 Firstly, user provide voters verified college email address and password to login for both admin and users.
@@ -174,11 +241,49 @@ In Software engineering, DFD(data flow diagram) can be drawn to represent the sy
 \paragraph{0-level DFD}
 It is also known as a context diagram. It is designed to be an abstraction view, showing the system as a single process related to external entities. It represents the entire system as a single bubble with input and output data indicated by incoming/outgoing arrows.
 
+           \begin{figure}[htb!]
+               \centering
+               \includegraphics[scale=0.4]{DFD-0L} 
+               \textit{\caption{0-level data flow diagram}}
+              % \label{fig:DFD Diagram 1}
+         \end{figure}
+
 \paragraph{1-level DFD}
 In 1-level DFD, the context diagram is decomposed into multiple bubbles/processes. In this level, this report highlight the system's main functions and break down the high-level process of 0-level DFD into sub-processes.
 
+     \begin{figure}[htb!]
+               \centering
+               \includegraphics[scale=0.5]{DFD-1L} 
+               \textit{\caption{1-level data flow diagram}}
+              % \label{fig:DFD Diagram 2}
+         \end{figure}
+
 \subsection{Activity diagram}
 An activity diagram is a flowchart representing the flow from one activity to another. The activity can be described as an operation of the system.
+
+%\begin{figure}
+  %\centering
+  %\begin{minipage}{0.4\textwidth}
+    %\includegraphics[width=\textwidth]{ActivityDig-1}
+   %\textit{ \caption{Activity Diagram for Register.}}
+  %\end{minipage}
+  %\hfill
+  %\begin{minipage}{0.4\textwidth}
+   % \includegraphics[width=\textwidth]{ActivityDig-2}
+    %\textit{\caption{Activity diagram for voting}}
+  %\end{minipage}
+%\end{figure}
+    \begin{figure}[h]
+               \centering
+               \includegraphics[scale=0.5]{ActivityDig-1} 
+               \textit{\caption{Activity Diagram for Registeration.}}
+               
+               \includegraphics[scale=0.5]{ActivityDig-2}
+                  \textit{\caption{Activity Diagram for Voting.}}
+               
+               \label{fig:Activity Diagram 1}
+         \end{figure}
+         
 
 \subsection{Incremental Model}
 The incremental model is a process of software development where requirements are divided into multiple standalone modules of the software development cycle. The incremental process model is also known as the Successive version model. This model emphasizes the full phase dynamic growing software. Since the E-voting software of our project is also a kind of dynamic software that needs the continuous development and full phase growth of different features like login portals, Conformation Portals, Voting Selection Portals, etc.
@@ -221,8 +326,10 @@ In Software engineering, DFD(data flow diagram) can be drawn to represent the sy
 \subsubsection{0-level DFD}
 It is also known as a context diagram. It is designed to be an abstraction view, showing the system as a single process related to external entities. It represents the entire system as a single bubble with input and output data indicated by incoming/outgoing arrows.
 \subsubsection{1-level DFD}
-In 1-level DFD, the context diagram is decomposed into multiple bubbles/processes. In this level, this report highlight the system's main functions and break down the high-level process of 0-level DFD into subprocesses.
+In 1-level DFD, the context diagram is decomposed into multiple bubbles/processes. In this level, this report highlight the system's main functions and break down the high-level process of 0-level DFD into sub-processes.
 \subsection{Activity Diagram}
 An activity diagram is a flowchart representing the flow from one activity to another. The activity can be described as an operation of the system.
+
+%\listoffigures  List of figures%
 
 \end{document}
