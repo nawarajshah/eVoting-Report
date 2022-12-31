@@ -6,8 +6,8 @@
 \contentsline {section}{\numberline {1.5}Project Feature}{2}{}%
 \contentsline {section}{\numberline {1.6}System Requirements}{3}{}%
 \contentsline {subsection}{\numberline {1.6.1}Development Requirements}{3}{}%
-\contentsline {subsubsection}{Hardware Requirements}{3}{}%
-\contentsline {subsubsection}{Software Requirements}{3}{}%
+\contentsline {subsubsection}{\numberline {1.6.1.1}Hardware Requirements}{3}{}%
+\contentsline {subsubsection}{\numberline {1.6.1.2}Software Requirements}{3}{}%
 \contentsline {subsection}{\numberline {1.6.2}Deployment Requirements}{3}{}%
 \contentsline {section}{\numberline {1.7}Feasibility Study}{4}{}%
 \contentsline {subsection}{\numberline {1.7.1}Economic Feasibility}{4}{}%
@@ -40,3 +40,22 @@
 \contentsline {paragraph}{1-level DFD}{10}{}%
 \contentsline {subsection}{\numberline {3.2.3}Activity diagram}{10}{}%
 \contentsline {subsection}{\numberline {3.2.4}Incremental Model}{10}{}%
+\contentsline {chapter}{\numberline {4}EPILOGUE}{11}{}%
+\contentsline {section}{\numberline {4.1}Working Mechanism}{11}{}%
+\contentsline {subsection}{\numberline {4.1.1}Block Diagram}{11}{}%
+\contentsline {subsection}{\numberline {4.1.2}Login}{11}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}OTP verification}{11}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}Choose Candidate}{11}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.3}Tally at Database}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.4}Release Result}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.5}Block Diagram}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.6}Nonce}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.7}Voting Data}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.8}Previous Hash}{12}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.9}Current Hash}{12}{}%
+\contentsline {section}{\numberline {4.2}System Models}{12}{}%
+\contentsline {subsection}{\numberline {4.2.1}Use Case Diagram}{12}{}%
+\contentsline {subsection}{\numberline {4.2.2}Data Flow Diagram}{13}{}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}0-level DFD}{13}{}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}1-level DFD}{13}{}%
+\contentsline {subsection}{\numberline {4.2.3}Activity Diagram}{13}{}%

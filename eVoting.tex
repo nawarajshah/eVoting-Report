@@ -1,4 +1,6 @@
 \documentclass[a4paper,12pt]{report}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
 \begin{document}
 \pagenumbering{roman}
 \chapter*{Abstract}
@@ -188,5 +190,39 @@ Incremental Models include the different building phases. Like Build-1, Build-2,
   \item Build-3: Solidity Contracts
   \item Build-4: Acquire Voting from Voters
 \end{itemize}
+\chapter{EPILOGUE}
+\section{Working Mechanism}
+\subsection{Block Diagram}
+A block diagram is a drawing illustration of a system whose parts are illustrated by blocks. These blocks are joined by lines to display the relationship between the blocks. Block diagrams are used to visualize the functionality of a system.
+\subsection{Login}
+Firstly, user provide voters verified college email address and password to login for both admin and users.
+\subsubsection{OTP verification}
+The system send OTP code to the verified user email address and that code is enter by the user and verified themself. 
+\subsubsection{Choose Candidate}
+After users logged in to the system they enter into the select candidate page. There the user cast their vote to the respective candidate and again entering an updated OTP that he receives on his email address confirm the final process of voting. At third those information at the pool was packed into a Blockchain node which was created with the Keccak -256 Algorithm. At last node is finally verified with permanent node.With these four different steps the Blockchain system is carried out then proceeds to further steps.
+\subsubsection{Tally at Database}
+The results are then tally at Database where the individual votes were recorded for individual candidate.The admin can control over the database for security purpose and initial monitoring of results but admin can’t modify it on database.
+\subsubsection{Release Result}
+Then at last the tally votes were shown in results which is done after all the process completion.
+\subsubsection{Block Diagram}
+\subsubsection{Nonce}
+Nonce is the value used to calculate a block hash that meets a certain requirement.( Eg:- Start with a certain number of Zeroes).
+\subsubsection{Voting Data}
+In this part of the block data is stored. Here data is divided to 2 parts one for the voter and one for the candidate. In the voter part the details about the voter are stored. It stores the data whether the voter has voted or not and which address the voter has voted for. In the candidate part it stores the name, address and total vote count of the candidate.
+\subsubsection{Previous Hash}
+It is the hash of the block before it.It is used to link to the previous block.
+\subsubsection{Current Hash}
+It is the hash ( .i.e.Hash is a unique fixed sized output for an input generated through a one way function called hash function) of the current data.
+\section{System Models}
+\subsection{Use Case Diagram}
+A use case diagram is a way to summarize the details of a system and the users within that system. It is generally shown as a graphic depiction of interactions among different elements in a system. Use Case Diagrams will specify the events in a system and how those events flow. However, Use Case Diagram does not describe how those events are implemented.
+\subsection{Data Flow Diagram}
+In Software engineering, DFD(data flow diagram) can be drawn to represent the system of different levels of abstraction. Higher-level DFDs are partitioned into low levels-hacking more information and functional elements. Levels in DFD are numbered 0, 1, 2, or beyond. Here, we will see 2 levels in the data flow diagram: 0-level DFD and 1-level DFD.
+\subsubsection{0-level DFD}
+It is also known as a context diagram. It is designed to be an abstraction view, showing the system as a single process related to external entities. It represents the entire system as a single bubble with input and output data indicated by incoming/outgoing arrows.
+\subsubsection{1-level DFD}
+In 1-level DFD, the context diagram is decomposed into multiple bubbles/processes. In this level, this report highlight the system's main functions and break down the high-level process of 0-level DFD into subprocesses.
+\subsection{Activity Diagram}
+An activity diagram is a flowchart representing the flow from one activity to another. The activity can be described as an operation of the system.
 
 \end{document}
