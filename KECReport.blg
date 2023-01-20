@@ -1,12 +1,15 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: eVoting.aux
-I found no \citation commands---while reading file eVoting.aux
-I found no \bibdata command---while reading file eVoting.aux
-I found no \bibstyle command---while reading file eVoting.aux
-You've used 0 entries,
+The top-level auxiliary file: KECReport.aux
+I couldn't open style file IEEEtran.bst
+---line 71 of file KECReport.aux
+ : \bibstyle{IEEEtran
+ :                   }
+I'm skipping whatever remains of this command
+I found no style file---while reading file KECReport.aux
+You've used 2 entries,
             0 wiz_defined-function locations,
-            83 strings with 488 characters,
+            89 strings with 537 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -45,4 +48,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There were 3 error messages)
+(There were 2 error messages)
